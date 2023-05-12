@@ -1,0 +1,3 @@
+build : eol.c
+	@echo compiling ...
+	gcc eol.c -o eol
